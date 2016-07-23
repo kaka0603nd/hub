@@ -1,9 +1,0 @@
-<?php
-    $this->load->view('page/header');
-?>
-<?php
-    $this->load->view($url,$data);
-?>
-<?php
-    $this->load->view('page/footer');
-?>
